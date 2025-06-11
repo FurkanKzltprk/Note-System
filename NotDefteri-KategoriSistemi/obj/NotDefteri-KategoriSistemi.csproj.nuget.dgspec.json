@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj": {}
+    "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj": {
+    "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
         "projectName": "NotDefteri-KategoriSistemi",
-        "projectPath": "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
+        "projectPath": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\obj\\",
+        "outputPath": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

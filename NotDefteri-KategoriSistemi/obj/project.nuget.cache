@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eKcUrdidTrQ=",
+  "dgSpecHash": "eOStOmtuAm8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan\\source\\repos\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
+  "projectFilePath": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\NotDefteri-KategoriSistemi\\NotDefteri-KategoriSistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
