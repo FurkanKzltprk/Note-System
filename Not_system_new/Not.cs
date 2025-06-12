@@ -2,7 +2,7 @@
 
 namespace Not_system_new
 {
-    public class Not
+    public class Not : IAranabilir
     {
         public string Baslik { get; set; }
         public string Icerik { get; set; }
@@ -15,6 +15,12 @@ namespace Not_system_new
             Icerik = icerik;
             Tarih = DateTime.Now;
             Kategori = kategori;
+        }
+
+        public bool Ara(string anahtarKelime)
+        {
+            return Baslik.Contains(anahtarKelime, StringComparison.OrdinalIgnoreCase) ||
+                   Icerik.Contains(anahtarKelime, StringComparison.OrdinalIgnoreCase);
         }
 
         public override string ToString()

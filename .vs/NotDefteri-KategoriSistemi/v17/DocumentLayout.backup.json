@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\",
+  "WorkspaceRootPath": "D:\\GitHub-Repos\\Note-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|c:\\users\\furkan\\downloads\\compressed\\note-system-main_2\\note-system-main\\not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|d:\\github-repos\\note-system\\not_system_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|c:\\users\\furkan\\downloads\\compressed\\note-system-main_2\\note-system-main\\not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|d:\\github-repos\\note-system\\not_system_new\\notyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\notyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|c:\\users\\furkan\\downloads\\compressed\\note-system-main_2\\note-system-main\\not_system_new\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|c:\\users\\furkan\\downloads\\compressed\\note-system-main_2\\note-system-main\\not_system_new\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|d:\\github-repos\\note-system\\not_system_new\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|c:\\users\\furkan\\downloads\\compressed\\note-system-main_2\\note-system-main\\not_system_new\\notyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\notyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|d:\\github-repos\\note-system\\not_system_new\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|d:\\github-repos\\note-system\\not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|D:\\GitHub-Repos\\Note-System\\not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{548DB632-BD19-40A7-B0A8-DA91ACC4817E}|Not_system_new\\Not_system_new.csproj|solutionrelative:not_system_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Not.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Not.cs",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Not.cs",
               "RelativeDocumentMoniker": "Not_system_new\\Not.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Not.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Not.cs",
               "RelativeToolTip": "Not_system_new\\Not.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,25 +52,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Form1.cs",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Form1.cs",
               "RelativeDocumentMoniker": "Not_system_new\\Form1.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Form1.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Form1.cs",
               "RelativeToolTip": "Not_system_new\\Form1.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAuwI8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:54:02.503Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Program.cs",
+              "RelativeDocumentMoniker": "Not_system_new\\Program.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Program.cs",
+              "RelativeToolTip": "Not_system_new\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:54:38.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -102,41 +115,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Form1.cs",
-              "RelativeDocumentMoniker": "Not_system_new\\Form1.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Form1.cs [Design]",
-              "RelativeToolTip": "Not_system_new\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T07:39:33.456Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Kategori.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Kategori.cs",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Kategori.cs",
               "RelativeDocumentMoniker": "Not_system_new\\Kategori.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\Kategori.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Kategori.cs",
               "RelativeToolTip": "Not_system_new\\Kategori.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T07:15:54.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NotYonetici.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\NotYonetici.cs",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\NotYonetici.cs",
               "RelativeDocumentMoniker": "Not_system_new\\NotYonetici.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Downloads\\Compressed\\Note-System-main_2\\Note-System-main\\Not_system_new\\NotYonetici.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\NotYonetici.cs",
               "RelativeToolTip": "Not_system_new\\NotYonetici.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:46:55.435Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Form1.cs",
+              "RelativeDocumentMoniker": "Not_system_new\\Form1.cs",
+              "ToolTip": "D:\\GitHub-Repos\\Note-System\\Not_system_new\\Form1.cs [Design]",
+              "RelativeToolTip": "Not_system_new\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:39:33.456Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

@@ -72,13 +72,17 @@ namespace Not_system_new
         private void txtAra_TextChanged(object sender, EventArgs e)
         {
             string aranan = txtAra.Text.ToLower();
+            #region varFiltreli1
+            //var filtreli = notlar.FindAll(n =>
+            //    n.Baslik.ToLower().Contains(aranan) ||
+            //    n.Kategori.Ad.ToLower().Contains(aranan)
+            //);
 
-            var filtreli = notlar.FindAll(n =>
-                n.Baslik.ToLower().Contains(aranan) ||
-                n.Kategori.Ad.ToLower().Contains(aranan)
-            );
+            #endregion
 
+            var filtreli = notlar.Where(n => n.Ara(aranan)).ToList();
             NotlariGoster(filtreli);
+
         }
 
         private void btnKategoriEkle_Click(object sender, EventArgs e)
